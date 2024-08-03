@@ -1,1 +1,5 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.image {
+  height: 400px;
+}
